@@ -6,7 +6,7 @@ export default class Movie extends Component {
     super(props);
     this.state = {
       movie: null,
-      addtoSavedList: props.addtoSavedList,
+      // addtoSavedList: props.addtoSavedList,
     };
   }
 
